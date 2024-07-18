@@ -6,3 +6,4 @@ git is good
 git git git
 Create a new branch is quick
 quick fast
+Creating a new branch is quick.
